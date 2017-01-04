@@ -7,3 +7,5 @@ This is a short description of this fantastic project :p
 & modif dans la branche Fix#2 !!
 Tadaaaaa
 Mon Fix#3 en mode --no-ff
+
+En cours !!!
