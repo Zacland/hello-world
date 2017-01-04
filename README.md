@@ -4,3 +4,4 @@ This is a short description of this fantastic project :p
 & another change with git !
 & modif dans la branche Fix#1 !!
 & Tralala
+& modif dans la branche Fix#2 !!
